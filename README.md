@@ -66,6 +66,7 @@ ____________________________
 
 # changelog
 
+* v220 - experiment, disable get_content
 * v219 - experiment, "0" when no location, instead of nullptr
 * v218 - rewrite all scans to use std::string in almost all places
 * v217 - experiment, no break in for condition nbns scan
