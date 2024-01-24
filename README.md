@@ -66,6 +66,7 @@ ____________________________
 
 # changelog
 
+* v223 - using .empty() instead of comparing to .end()
 * v222 - experiment, removing other characters from ssdp datas before fetching with get_content
 * v221 - fixing hostname scan
 * v220 - experiment, disable get_content
