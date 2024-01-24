@@ -66,6 +66,7 @@ ____________________________
 
 # changelog
 
+* v222 - experiment, removing other characters from ssdp datas before fetching with get_content
 * v221 - fixing hostname scan
 * v220 - experiment, disable get_content
 * v219 - experiment, "0" when no location, instead of nullptr
