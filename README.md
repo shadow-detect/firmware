@@ -66,6 +66,7 @@ ____________________________
 
 # changelog
 
+* v226 - restart if upload connection fails (covers wifi being dropped and other scenarios)
 * v225 - ssdp location back off
 * v224 - ssdp location back on
 * v223 - using .empty() instead of comparing to .end()
