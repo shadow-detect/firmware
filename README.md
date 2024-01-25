@@ -66,6 +66,7 @@ ____________________________
 
 # changelog
 
+* v230 - test for ssdp upload after > 5 items
 * v229 - test for ssdp get_content - return just the location url
 * v228 - test for ssdp get_content - hardcoded string return to narrow it down
 * v227 - test for ssdp get_content - dont return nullptr
