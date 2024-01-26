@@ -66,6 +66,7 @@ ____________________________
 
 # changelog
 
+* v232 - reinstate 100ms delay in arp scan
 * v231 - rewrite all to use refs not pointers. separate ssdp_data from ssdp_location, refactor
 * v230 - test for ssdp upload after > 5 items
 * v229 - test for ssdp get_content - return just the location url
