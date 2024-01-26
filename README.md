@@ -66,6 +66,7 @@ ____________________________
 
 # changelog
 
+* v231 - rewrite all to use refs not pointers. separate ssdp_data from ssdp_location, refactor
 * v230 - test for ssdp upload after > 5 items
 * v229 - test for ssdp get_content - return just the location url
 * v228 - test for ssdp get_content - hardcoded string return to narrow it down
@@ -102,7 +103,7 @@ ____________________________
 * v117 - dont upload smb scan if empty
 * v116 - fixing a panic()
 * v115 - memory optimisations
-* v114 - check if its possible to match wifimanager and app themes (** partially - we can add custom css and get a close-enough match)
+* v114 - check if its possible to match wifimanager and app themes ( partially - we can add custom css and get a close-enough match)
 * v112 - small bugfix on ssdp upload / overflow if too many scans
 * v111 - move to platformio and separate code
 * v110 - mac address in every scan
