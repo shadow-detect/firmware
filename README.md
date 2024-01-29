@@ -66,6 +66,7 @@ ____________________________
 
 # changelog
 
+* v235 - experiment - arp scan remove 0.0.0.0 alternative way
 * v234 - experiment - reinstate some older changes to arp scan
 * v233 - experiment - reinstate some older changes to arp scan
 * v232 - reinstate 100ms delay in arp scan
