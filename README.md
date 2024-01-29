@@ -66,6 +66,7 @@ ____________________________
 
 # changelog
 
+* v234 - experiment - reinstate some older changes to arp scan
 * v233 - experiment - reinstate some older changes to arp scan
 * v232 - reinstate 100ms delay in arp scan
 * v231 - rewrite all to use refs not pointers. separate ssdp_data from ssdp_location, refactor
