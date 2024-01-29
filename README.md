@@ -66,6 +66,7 @@ ____________________________
 
 # changelog
 
+* v236 - bugfix - when finding the mac_str with no entry - added a function.
 * v235 - experiment - arp scan remove 0.0.0.0 alternative way
 * v234 - experiment - reinstate some older changes to arp scan
 * v233 - experiment - reinstate some older changes to arp scan
