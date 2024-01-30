@@ -66,6 +66,7 @@ ____________________________
 
 # changelog
 
+* v240 - move to global maps and mutexes - getting too many issues with async read/write
 * v236 - bugfix - when finding the mac_str with no entry - added a function.
 * v235 - experiment - arp scan remove 0.0.0.0 alternative way
 * v234 - experiment - reinstate some older changes to arp scan
