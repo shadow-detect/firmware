@@ -12,6 +12,7 @@
 * ssdp_scan - probes for ssdp services
 * ssdp_tv_scan - probes for ssdp dial services
 * ssdp_location - on finding location info on ssdp or ssdp_tv scans, fetches the location info and parses
+* DHCP listener - listens for, and records dhcp packets
 * MDNs / Bonjour services scan - searches the network for specific bonjour / mdns services
     * http
     * workstation
@@ -66,6 +67,7 @@ ____________________________
 
 # changelog
 
+* v241 - DHCP scan
 * v240 - move to global maps and mutexes - getting too many issues with async read/write
 * v236 - bugfix - when finding the mac_str with no entry - added a function.
 * v235 - experiment - arp scan remove 0.0.0.0 alternative way
