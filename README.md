@@ -67,6 +67,7 @@ ____________________________
 
 # changelog
 
+* v242 - separate ssdp_location upload for logging on serverside, trimming down onboarding
 * v241 - DHCP scan
 * v240 - move to global maps and mutexes - getting too many issues with async read/write
 * v236 - bugfix - when finding the mac_str with no entry - added a function.
