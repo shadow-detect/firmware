@@ -67,6 +67,7 @@ ____________________________
 
 # changelog
 
+* v243 - ssdp_location individual uploads, overview wouth count to investigate
 * v242 - separate ssdp_location upload for logging on serverside, trimming down onboarding
 * v241 - DHCP scan
 * v240 - move to global maps and mutexes - getting too many issues with async read/write
