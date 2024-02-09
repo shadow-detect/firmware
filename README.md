@@ -67,6 +67,7 @@ ____________________________
 
 # changelog
 
+* v244 - reinstate 100ms delay in arp scanner to avoid dupes
 * v243 - ssdp_location individual uploads, overview wouth count to investigate
 * v242 - separate ssdp_location upload for logging on serverside, trimming down onboarding
 * v241 - DHCP scan
