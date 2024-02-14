@@ -67,6 +67,7 @@ ____________________________
 
 # changelog
 
+* v246 - mutex for thread-safe arp array
 * v245 - windows build number change / experiment
 * v244 - reinstate 100ms delay in arp scanner to avoid dupes
 * v243 - ssdp_location individual uploads, overview wouth count to investigate
