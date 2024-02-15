@@ -67,6 +67,7 @@ ____________________________
 
 # changelog
 
+* v251 - mutexes in new arp implementation
 * v250 - different arp implementation (ICMP Ping and lookup mac in cache)
 * v246 - mutex for thread-safe arp array
 * v245 - windows build number change / experiment
