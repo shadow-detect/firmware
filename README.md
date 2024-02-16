@@ -67,6 +67,7 @@ ____________________________
 
 # changelog
 
+* v253 - nulled pointers + clearing arp cache each loop
 * v252 - "ATLANTIC" - new implementation of arp scanner, without nested while loops - experiment
 * v251 - mutexes in new arp implementation
 * v250 - different arp implementation (ICMP Ping and lookup mac in cache)
