@@ -60,6 +60,7 @@
 * port_scan - checks all devices returned by arp_scan for open ports
     * 9, 21, 22, 23, 25, 53, 67, 68, 80, 88, 110, 135, 137, 138, 139, 143, 153, 161, 162, - 220, 443, 445, 587, 8080, 993, 995, 1080, 1194, 1900, 3306, 5060, 5061 62078
 * hostname scan [dns over mdns]
+* icmp scanner
 * Wifi AP Scan [unused]
 * mdns_broadcast - [unused] listens for mdns broadcast packets, extrracts PTR and TXT information, periodically uploads to cloud
 * ssdp_broadcast - [unused] listens for ssdp broadcast packets, periodically uploads to cloud
@@ -67,6 +68,7 @@ ____________________________
 
 # changelog
 
+* v255 - icmp scanner
 * v254 - reboot if STA_DISCONNECTED / wifi onStatusChange callback
 * v253 - nulled pointers + clearing arp cache each loop
 * v252 - "ATLANTIC" - new implementation of arp scanner, without nested while loops - experiment
