@@ -68,6 +68,7 @@ ____________________________
 
 # changelog
 
+* v256 - some telemetry information - ping, rssi, etc
 * v255 - icmp scanner
 * v254 - reboot if STA_DISCONNECTED / wifi onStatusChange callback
 * v253 - nulled pointers + clearing arp cache each loop
