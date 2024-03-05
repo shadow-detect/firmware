@@ -68,6 +68,7 @@ ____________________________
 
 # changelog
 
+* v257 - dont wipe device if wedont get a token back from a timeout
 * v256 - some telemetry information - ping, rssi, etc
 * v255 - icmp scanner
 * v254 - reboot if STA_DISCONNECTED / wifi onStatusChange callback
