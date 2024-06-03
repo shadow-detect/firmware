@@ -68,6 +68,7 @@ ____________________________
 
 # changelog
 
+* v264 - bugfix for potential smb dupes
 * v263 - bugfix for ssdplocation dupes
 * v262 - bugfix for nbns + potential hostname dupes
 * v261 - bugfix for nbns dupes
