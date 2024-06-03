@@ -68,6 +68,7 @@ ____________________________
 
 # changelog
 
+* v263 - bugfix for ssdplocation dupes
 * v262 - bugfix for nbns + potential hostname dupes
 * v261 - bugfix for nbns dupes
 * v260 - reinstate popup thing and menu for AP mode
