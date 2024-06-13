@@ -68,6 +68,7 @@ ____________________________
 
 # changelog
 
+* v265 - potential bugfix for confirmed bonjour dupes
 * v265 - bugfix for potential bonjour dupes
 * v264 - bugfix for potential smb dupes
 * v263 - bugfix for ssdplocation dupes
