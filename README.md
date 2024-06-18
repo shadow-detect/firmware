@@ -68,6 +68,7 @@ ____________________________
 
 # changelog
 
+* v270 - dhcp modify MAC_AND_IP_ADDRESSES map
 * v267 - potential bugfix for confirmed bonjour dupes
 * v266 - potential bugfix for confirmed bonjour dupes
 * v265 - bugfix for potential bonjour dupes
